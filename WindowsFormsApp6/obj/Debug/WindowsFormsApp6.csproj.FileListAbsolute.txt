@@ -1,0 +1,17 @@
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.AddForm.resources
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.DeleteForm.resources
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.LoginForm.resources
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MainForm.resources
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.RegistrationForm.resources
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.SearchForm.resources
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\nikit\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.CalculatingForm.resources
